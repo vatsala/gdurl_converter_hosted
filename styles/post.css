@@ -1,0 +1,38 @@
+.container
+{
+  width: 306px;
+  max-height: 250px;
+  padding: 5px;
+  margin: 0 auto;
+  font-size: 12px;
+}
+.header, h2
+{
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+.copy
+{
+  padding: 5px;
+  border: 1px solid black;
+  width: 119px;
+  background: #D34635;
+  color: white;
+  letter-spacing: 2px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+.urlContainer
+{
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.header
+{
+  padding: 10px;
+}
+.formContainer
+{
+  text-align: center;
+}
